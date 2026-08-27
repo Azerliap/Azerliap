@@ -21,7 +21,7 @@ Je suis un professionnel SIG français.
 
 I'm a french Data GIS professional.
 
-- 💻 I'm currently learning new ways to code to handle data
+- 💻 I'm currently learning new conding ways to handle data
 - 🦾 I'm still learning how to use github properly to make projects
 - 🗽 I love Open Source Projects and helping them
 - 👾 I'm actively finding bugs in them
@@ -41,10 +41,10 @@ Maximum à afficher:
 
 Structure examplaire:
 ![Anurag's GitHub](https://github-stats-extended.vercel.app/api?username=anuraghazra&hide=contribs,prs)
-
 -->
 
 <!--
+Original Github Comment:
 **Azerliap/Azerliap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
