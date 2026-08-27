@@ -11,7 +11,7 @@ Je suis un professionnel SIG français.
 - 👾 Je trouve activement des bugs pour eux
 - ✍️ Je traduis activement en français pour eux
 
-![Stats](https://github-stats-extended.vercel.app/api?username=Azerliap&custom_title=Stats%20de%20Azeliap%20depuis%20~%20Juillet%202026&hide_rank=true&theme=github_dark_dimmed&hide=stars,commits,prs,contribs&show=issues_authored,issues_commented,discussions_started&locale=en)
+![Stats](https://github-stats-extended.vercel.app/api?username=Azerliap&custom_title=Stats%20de%20Azerliap%20depuis%20~%20Juillet%202026&hide_rank=true&theme=github_dark_dimmed&hide=stars,commits,prs,contribs&show=issues_authored,issues_commented,discussions_started&locale=en)
 </details>
 
 <details open>
