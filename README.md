@@ -21,7 +21,7 @@ Je suis un professionnel SIG français.
 
 I'm a french Data GIS professional.
 
-- 💻 I'm currently learning new conding ways to handle data
+- 💻 I'm currently learning new coding ways to handle data
 - 🦾 I'm still learning how to use github properly to make projects
 - 🗽 I love Open Source Projects and helping them
 - 👾 I'm actively finding bugs in them
