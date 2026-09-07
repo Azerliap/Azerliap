@@ -12,6 +12,11 @@ Je suis un professionnel SIG français.
 - ✍️ Je traduis activement en français pour eux
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=Azerliap&custom_title=Stats%20de%20Azerliap%20depuis%20~%20Juillet%202026&hide_rank=true&theme=github_dark_dimmed&hide=stars,commits,prs,contribs&show=issues_authored,issues_commented,discussions_started&locale=en)
+
+Sur Weblate (seulement)
+
+[![Weblate](https://img.shields.io/weblate/translations/Azerliap?server=https%3A%2F%2Fhosted.weblate.org&style=for-the-badge)](https://hosted.weblate.org/user/Azerliap/)
+
 </details>
 
 <details open>
@@ -28,6 +33,11 @@ I'm a french Data GIS professional.
 - ✍️ I'm actively helping with translating them into french
 
 ![Stats](https://github-stats-extended.vercel.app/api?username=Azerliap&custom_title=Azerliap%27s%20Stats%20From%20~%20July%202026&hide_rank=true&theme=github_dark_dimmed&hide=stars,commits,prs,contribs&show=issues_authored,issues_commented,discussions_started&locale=en)
+
+On Weblate (only)
+
+[![Weblate](https://img.shields.io/weblate/translations/Azerliap?server=https%3A%2F%2Fhosted.weblate.org&style=for-the-badge)](https://hosted.weblate.org/user/Azerliap/)
+
 </details>
 
 <!-- 
